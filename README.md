@@ -19,8 +19,8 @@
 
 <br>
 
-[!WARNING]
-Dữ liệu được tổng hợp từ Mặt trận tổ quốc Việt Nam. Vui lòng sử dụng đúng mục đích.
+> [!WARNING]
+> Dữ liệu được tổng hợp từ Mặt trận tổ quốc Việt Nam. Vui lòng sử dụng đúng mục đích.
 
 
 
